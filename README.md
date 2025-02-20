@@ -5,7 +5,7 @@
 You can install this Alacritty configuration easily with the following command:
 
 ```bash
-bash -c "$(wget https://raw.githubusercontent.com/herschel21/alacritty-configuration/release-1.0/alacritty/install.sh -O -)"
+bash -c "$(wget https://raw.githubusercontent.com/herschel21/alacritty-configuration/release-1.0/install.sh -O -)"
 ```
 
 This command downloads and runs the installation script, which will set up the Alacritty configuration for you.
@@ -15,7 +15,7 @@ This command downloads and runs the installation script, which will set up the A
 To uninstall this Alacritty configuration and revert back to your previous setup, use:
 
 ```bash
-bash -c "$(wget https://raw.githubusercontent.com/herschel21/alacritty-configuration/release-1.0/alacritty/uninstall.sh -O -)"
+bash -c "$(wget https://raw.githubusercontent.com/herschel21/alacritty-configuration/release-1.0/uninstall.sh -O -)"
 ```
 
 ## 🎨 Features
